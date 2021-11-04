@@ -12,7 +12,7 @@ Seoul Bike Rental Dashboard discover some insights of the dataset using dash and
 
 link dataset : https://www.kaggle.com/c/seoul-bike-rental-ai-pro-iti/data
 
-## Dashboard :
+## [Dashboard](https://github.com/omarmohamed10/Bikes-Rental-Dashboard-using-Dash-and-Plotly/blob/main/Plotly-Project.ipynb) :
 ![](screenshot1.png)
 ![](screenshot2.png)
 ![](screenshot3.png)
